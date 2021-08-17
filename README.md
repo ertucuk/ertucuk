@@ -1,7 +1,7 @@
 # Hi there I'm ZeusMisali 👋
 
 
-- ♦  **I'am Full Stack Developer**
+- ♦  **I'm Full-Stack Developer**
 - 🔭 **I just launched my first course: Java**
 - ⚡ **Fun fact: I love to draw and play computer games**
 
