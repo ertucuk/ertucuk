@@ -27,6 +27,8 @@
 <br />
 <br />
 
+
+
 ### Technologies:
 
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
@@ -34,9 +36,10 @@
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 
-
 ### 🌟 Official Discord Account
-<a href="https://discord.com/users/852597284205363221" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852792807092912169/"></a>
+<a href="https://discord.com/users/852597284205363221" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/327236967265861633/"></a>
+
+
 
 
 
