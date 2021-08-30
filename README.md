@@ -35,7 +35,8 @@
 [<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 
 
-
+### 🌟 Official Discord Account
+<a href="https://discord.com/users/852597284205363221" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852597284205363221/"></a>
 
 
 
