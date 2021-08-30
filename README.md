@@ -36,7 +36,7 @@
 
 
 ### 🌟 Official Discord Account
-<a href="https://discord.com/users/852597284205363221" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852597284205363221/"></a>
+<a href="https://discord.com/users/852597284205363221" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852792807092912169/"></a>
 
 
 
