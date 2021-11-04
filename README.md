@@ -7,6 +7,8 @@
 
 <img src="https://novatorem-nine-gamma.vercel.app/api/spotify" alt="Your alt what" width="350" />
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/692411581572841544)](https://discord.com/users/692411581572841544)
+
 
 ### Connect with me:
 
