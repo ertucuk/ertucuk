@@ -1,4 +1,7 @@
 # Hi there I'm ZeusMisali 👋
+[![GitHub JaylenOzi](https://img.shields.io/github/followers/ZeusMisali?label=follow&style=social)](https://github.com/ZeusMisali)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ZeusMisali&color=red)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
 - ♦  **I'm Full-Stack Developer**
