@@ -40,9 +40,16 @@
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+<br />
+<br />
+<br />
 
 
-
+<h3 align="left">:bar_chart: GitHub Stats:</h3>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=ZeusMisali&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=ZeusMisali&theme=radical" />
+</p>
 
 
 
