@@ -51,7 +51,14 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ZeusMisali&theme=radical" />
 </p>
 
-
+#  Highlight Projects
+<p align="left">
+    <a href="https://github.com/ZeusMisali/discord-role-selection">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeusMisali&repo=discord-role-selection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="C_Programming_Language" />
+    </a>
+    <a href="https://github.com/ZeusMisali/ZewoBot">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeusMisali&repo=ZewoBot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"alt="Python_Programming_Language" /></a>
+</p>
 
 
 
