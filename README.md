@@ -16,7 +16,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="zeusmis4li | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="dev.ertugrul | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -67,7 +67,7 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCtG3BXJlbWwaFUxgbIJ6XiQ
-[instagram]: https://instagram.com/zeusmis4li
+[instagram]: https://instagram.com/dev.ertugrul
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
