@@ -2,23 +2,14 @@
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/ZeusMisali?label=follow&style=social)](https://github.com/ZeusMisali)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ZeusMisali&color=red)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
+<a href="https://instagram.com/dev.ertugrul"><img src="https://img.shields.io/badge/Follow-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
-- ♦  **I'm Full-Stack Developer**
-- 🔭 **I just launched my first course: Java**
-- ⚡ **Fun fact: I love to draw and play computer games**
-
-<img src="https://novatorem-nine-gamma.vercel.app/api/spotify" alt="Your alt what" width="350" />
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/692411581572841544)](https://discord.com/users/692411581572841544)
 
 
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="dev.ertugrul | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages:
 
