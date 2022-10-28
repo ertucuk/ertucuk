@@ -9,47 +9,18 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/692411581572841544)](https://discord.com/users/692411581572841544)
 
 
-
-
-### Languages:
-
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-
-
+### Languages I Know:
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 <br />
 <br />
-<br />
-
-
-
-### Technologies:
-
-[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-<br />
-<br />
-<br />
-
-
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=ZeusMisali&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=ZeusMisali&theme=radical" />
-</p>
 
-#  Highlight Projects
-<p align="left">
-    <a href="https://github.com/ZeusMisali/discord-role-selection">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeusMisali&repo=discord-role-selection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="C_Programming_Language" />
-    </a>
-    <a href="https://github.com/ZeusMisali/ZewoBot">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZeusMisali&repo=ZewoBot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"alt="Python_Programming_Language" /></a>
-</p>
+
 
 
 
