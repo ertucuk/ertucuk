@@ -6,7 +6,7 @@
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/692411581572841544)](https://discord.com/users/692411581572841544)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/136619876407050240)](https://discord.com/users/136619876407050240)
 
 
 ### Languages I Know:
