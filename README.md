@@ -1,6 +1,6 @@
-# Hi there I'm ZeusMisali 👋
-[![GitHub JaylenOzi](https://img.shields.io/github/followers/ZeusMisali?label=follow&style=social)](https://github.com/ZeusMisali)&nbsp;
-![profile count](https://komarev.com/ghpvc/?username=ZeusMisali&color=red)&nbsp;
+# Hi there I'm Ertu 👋
+[![GitHub JaylenOzi](https://img.shields.io/github/followers/ertuuuu?label=follow&style=social)](https://github.com/ertuuuu)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ertuuuu&color=red)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <a href="https://instagram.com/dev.ertugrul"><img src="https://img.shields.io/badge/Follow-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
@@ -18,7 +18,7 @@
 <br />
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=ZeusMisali&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ertuuuu&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 
 
 
