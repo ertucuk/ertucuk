@@ -1,6 +1,6 @@
 # Hi there I'm Ertu 👋
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/ertuuuu?label=follow&style=social)](https://github.com/ertuuuu)&nbsp;
-![profile count](https://komarev.com/ghpvc/?username=ertuuuu&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ZeusMisali&color=red)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <a href="https://instagram.com/dev.ertugrul"><img src="https://img.shields.io/badge/Follow-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
