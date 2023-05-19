@@ -1,7 +1,7 @@
 [![GitHub](https://img.shields.io/github/followers/ertucuk?label=follow&style=social)](https://github.com/ertucuk)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ZeusMisali&color=red)&nbsp;
 
-Discord Kullanmıyorum eğer botlarda sorun çıkarsa destek için: https:discord.gg/luppux | lethh#1976
+Discord Kullanmıyorum eğer botlarda sorun çıkarsa destek için: discord.gg/luppux | lethh#1976
 
 V14 Botu'da 75 Star gelirse anında paylasıcagım.
 
