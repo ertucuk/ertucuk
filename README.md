@@ -23,7 +23,7 @@
 
 <h2 align="center">
  <a href="https://discord.com/users/136619876407050240"><img src="https://luppufy.onrender.com/136619876407050240?border=ff0000"></a>
-<a href="https://discord.com/users/692411581572841544"><img src="https://luppufy.onrender.com/692411581572841544?border=f47fff"></a>
+<a href="https://discord.com/users/692411581572841544"><img src="https://luppufy.onrender.com/692411581572841544?border=ffe200"></a>
 
  </h2>
 
