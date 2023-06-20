@@ -22,8 +22,9 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 <h2 align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/136619876407050240?theme=dark&hideDiscrim=true&hideBadges=false&bg=000000&borderRadius=30px&idleMessage=İletişim%20İçin%20Tıkla" align="center" />
- <img src="https://lanyard-profile-readme.vercel.app/api/692411581572841544?theme=dark&hideDiscrim=true&hideBadges=false&bg=000000&borderRadius=30px&idleMessage=İletişim%20İçin%20Tıkla" align="center" />
+ <a href="https://discord.com/users/136619876407050240"><img src="https://luppufy.onrender.com/136619876407050240?border=ff0000"></a>
+<a href="https://discord.com/users/692411581572841544"><img src="https://luppufy.onrender.com/692411581572841544?border=f47fff"></a>
+
  </h2>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
