@@ -22,8 +22,8 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 <h2 align="center">
- <a href="https://discord.com/users/136619876407050240"><img  width="400px" src="https://luppufy.onrender.com/v2/136619876407050240?border=ff0000&theme=070000"</a>
-<a href="https://discord.com/users/692411581572841544"><img  width="400px" src="https://luppufy.onrender.com/v2/692411581572841544?border=070000"></a>
+ <a href="https://discord.com/users/136619876407050240"><img  width="400px" src="https://luppufy.onrender.com/api/136619876407050240?border=ff0000&theme=070000"</a>
+<a href="https://discord.com/users/692411581572841544"><img  width="400px" src="https://luppufy.onrender.com/api/692411581572841544?border=070000"></a>
  </h2>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
