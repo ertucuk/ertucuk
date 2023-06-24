@@ -7,7 +7,11 @@
 # Language & Tools
  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mongo,&theme=dark" />
 
-# Stats
+# Discord Account
+<a href="https://discord.com/users/136619876407050240"><img  width="400px" src="https://luppufy.onrender.com/member/136619876407050240?border=f61014&theme=070000"></a>
+
+
+# GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ertucuk&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
 
 
