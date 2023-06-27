@@ -7,10 +7,6 @@
 " target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/ertucum/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=4d48f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Langauge's+%26+Tool's" alt="Typing SVG" /></h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mongo,&theme=dark" /><p></p>
-
  <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=fc7125&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Discord+Account" alt="Typing SVG" /></h2>
 <p align="center">
 <a href="https://discord.com/users/136619876407050240"><img  width="400px" src="https://luppufy.onrender.com/member/136619876407050240?border=f61014&theme=070000"></a>
