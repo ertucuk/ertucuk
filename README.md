@@ -2,7 +2,6 @@
  <br><br>
   <samp>
     Hi there, I'm Ertu :wave:<br>
-    I'm a <em>Backend Developer</em>.<br>
     I am a 12th grade language department student.<br>
     I write code in my spare time.<br>
     <br><img src="https://komarev.com/ghpvc/?username=ertucuk">
