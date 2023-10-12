@@ -5,7 +5,7 @@
     I am a 12th grade language department student.<br>
     I write code in my spare time.<br>
     <br><img src="https://komarev.com/ghpvc/?username=ertucuk">
-    <br><br>:coffee: For Everything :point_right: <a href="https://discord.com/users/136619876407050240">Discord</a>
+    <br><br>:mag: For Everything :point_right: <a href="https://discord.com/users/136619876407050240">My Discord</a>
   </samp>
 </p>
 
