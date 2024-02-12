@@ -9,6 +9,7 @@
     <br><br>😹 For Everything 👉 <a href="https://discord.com/users/136619876407050240">My Discord</a>
   </samp>
 </p>
-
+<p align="center">
+  <a href="https://discord.com/users/136619876407050240" target="_blank"><img src="https://lanyard.cnrad.dev/api/136619876407050240?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
+</p>
 <a href="https://futuree.netlify.app/en" target="_blank"><img src="https://cdn.discordapp.com/attachments/1084564537740640277/1206260357254095000/ertu1.png?ex=65db5c80&is=65c8e780&hm=7be0d3ea2a97ed59570f2c8beae9378aaf644e86a00db55327a7ca2e020fdda4&" alt="MasterHead" style="max-width: 100%;"></a>
-
