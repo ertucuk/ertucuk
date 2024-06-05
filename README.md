@@ -3,7 +3,7 @@
  <br><br>
   <samp>
     Hi there, I'm Ertu 👋<br>
-    I am a 12th grade language department student.<br>
+    I am a Part-Time Developer.<br>
     I write code in my spare time.<br>
     <br><img src="https://count.getloli.com/get/@:vante-xyz?theme=asoul">
     <br><br>😹 For Everything 👇</a>
