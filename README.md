@@ -6,10 +6,5 @@
     I am a Part-Time Developer.<br>
     I write code in my spare time.<br>
     <br><img src="https://count.getloli.com/get/@:vante-xyz?theme=asoul">
-    <br><br>😹 For Everything 👇</a>
   </samp>
 </p>
-<p align="center">
-  <a href="https://discord.com/users/136619876407050240" target="_blank"><img src="https://lanyard.cnrad.dev/api/136619876407050240?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
-</p>
-<a href="https://ertu.xyz" target="_blank"><img src="https://img001.prntscr.com/file/img001/q2On9ws_RTe6fWuhwFtgmA.png" alt="Ertu" style="max-width: 100%;"></a>
