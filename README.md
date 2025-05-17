@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
  <br><br>
   <samp>
-    Hi there, I'm  Ertu <br>
+    Hi there, I'm  wexza <br>
     Part-Time Developer and currently working on his projects and trying to learn new things. <br>
   </samp>
 </p>
