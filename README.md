@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px">
 
-<!--
-**ertucuk/ertucuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ <h1>
+ <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=EDEDED&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Hi+there%2C+I'am+Ertu" alt="Typing SVG" />
+ </h1>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/114983651619504130?showDisplayName=true&theme=dark" width="45%" style="vertical-align: top;">
+  </a>
+</div>
