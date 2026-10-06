@@ -2,11 +2,7 @@
 
 # Merhaba 👋 Ben Ertuğrul
 
-Yazılım geliştirmeye tutkulu, inovasyona açık bir geliştirici. Modern teknolojilerle çalışarak ölçeklenebilir ve kullanıcı dostu çözümler oluşturmaktan keyif alıyorum.
-
 </div>
-
----
 
 <div align="center">
 
