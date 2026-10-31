@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## 🛠️ Teknolojiler
+## Teknolojiler
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,31 +34,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub İstatistikleri
-
-<a href="https://github.com/ertucuk">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ertucuk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Benimle İletişime Geçin
-
-Bana aşağıdaki kanallardan ulaşabilirsiniz:
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/114983651619504130)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ertucuk1337@gmail.com)
 
 </div>
 
