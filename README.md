@@ -1,43 +1,34 @@
 <div align="center">
-
-# Merhaba 👋 Ben Ertuğrul
-
-</div>
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px">
 
 <div align="center">
-
-## Teknolojiler
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Veritabanı
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ORM & Kütüphaneler
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Araçlar & Platformlar
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<h1>
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=EDEDED&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Herkese+Merhaba%2C+Ben+Ertu%C4%9Frul." alt="Herkese Merhaba, Ben Ertuğrul." />
+</h1>
 
 </div>
 
----
+<div align="center" width="100%">
 
-<div align="center">
-</div>
+### Full-Stack Developer
+
+<samp>
+Kendimi tanıtmam gerekirse, ben Ertuğrul. Yazılıma tutkuyla bağlı, sürekli öğrenmeyi ve üretmeyi seven bir geliştiriciyim. Her yeni fikirde kendime yeni bir şey katıyor, projeler geliştirerek yazılım dünyasında kendi yolumu çiziyorum.<br /><br />
+
+• Benim [Websitem](https://portfolio.ertucuk.com)<br />
+• Yaptığım [Projeler](https://portfolio.ertucuk.com/projects)<br />
+• Yazdığım [Bloglar](https://portfolio.ertucuk.com/blogs)
+</samp>
+
+<img  align="center" width="55%" src="https://anime-counter.lulushu.workers.dev/@ertucuk?scale=1&theme=l&length=8"> 
+
+## Detaylar
+
+<details>
+  <summary style="display: block;"></summary>
+
+<img width="75%" align="center"
+src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,react,nextjs,vue,sass,nodejs,express,tailwind,mongodb,mysql,sqlite,prisma,electron,git,github&theme=dark&perline=10">
+<img width="40%" src="https://github-stats-extended.vercel.app/api?username=ertucuk&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+<img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ertucuk&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117" />
+
