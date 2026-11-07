@@ -20,8 +20,6 @@ Kendimi tanıtmam gerekirse, ben Ertuğrul. Yazılıma tutkuyla bağlı, sürekl
 • Yazdığım [Bloglar](https://portfolio.ertucuk.com/blogs)
 </samp>
 
-<img  align="center" width="55%" src="https://anime-counter.lulushu.workers.dev/@ertucuk?scale=1&theme=l&length=8"> 
-
 ## Detaylar
 
 <details>
