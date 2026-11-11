@@ -15,9 +15,9 @@
 <samp>
 Kendimi tanıtmam gerekirse, ben Ertuğrul. Yazılıma tutkuyla bağlı, sürekli öğrenmeyi ve üretmeyi seven bir geliştiriciyim. Her yeni fikirde kendime yeni bir şey katıyor, projeler geliştirerek yazılım dünyasında kendi yolumu çiziyorum.<br /><br />
 
-• Benim [Websitem](https://portfolio.ertucuk.com)<br />
-• Yaptığım [Projeler](https://portfolio.ertucuk.com/projects)<br />
-• Yazdığım [Bloglar](https://portfolio.ertucuk.com/blogs)
+• Benim [Websitem](https://ertucuk.com)<br />
+• Yaptığım [Projeler](https://ertucuk.com/projects)<br />
+• Yazdığım [Bloglar](https://ertucuk.com/blogs)
 </samp>
 
 ## Detaylar
