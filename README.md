@@ -17,7 +17,7 @@ Kendimi tanıtmam gerekirse, ben Ertuğrul. Yazılıma tutkuyla bağlı, sürekl
 
 • Benim [Websitem](https://ertucuk.com)<br />
 • Yaptığım [Projeler](https://ertucuk.com/projects)<br />
-• Yazdığım [Bloglar](https://ertucuk.com/blogs)
+• Yazdığım [Bloglar](https://ertucuk.com/blog)
 </samp>
 
 ## Detaylar
